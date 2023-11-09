@@ -5,5 +5,5 @@
 	"package": "包名",
 	"data": "B地址",
 	"key": "af Key",
-	"s": "A、AB、B"
+	"s": "A:i、AB:o、B:p"
 }
